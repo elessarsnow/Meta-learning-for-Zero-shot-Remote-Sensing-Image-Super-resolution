@@ -18,6 +18,8 @@ data must be *.png type)
 
 python maml_zssr.py
 
+value.py is used to query the SSIM, GSSIM, and PSNR values between two images
+
 If you find our work useful in your research or publication, please cite our work:
 
 MDPI and ACS Style
